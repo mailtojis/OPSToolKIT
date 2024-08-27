@@ -1,0 +1,3 @@
+[client]
+toolbarMode = "auto"
+disableWidgetStateDuplicationWarning = false
