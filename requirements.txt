@@ -2,4 +2,4 @@ streamlit
 pandas
 geopy
 folium
-folium_static
+streamlit-folium
