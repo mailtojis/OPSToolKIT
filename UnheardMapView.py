@@ -173,7 +173,7 @@ else:
                                                         border-radius: 50%; 
                                                         width: 20px; 
                                                         height: 20px; 
-                                                        border: 2px dashed red;
+                                                        border: 2px solid red;
                                                     "></div>
                                                     """,
                                                     icon_size=(10, 10)
